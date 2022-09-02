@@ -4,7 +4,7 @@
 <h5>🌱 I’m currently learning Full Stack Web development course from <a href="https://altcampus.io/" target="blank">Alt_Campus_</a></h5>
 
 🚀 twitter-
-<a href="https://twitter.com/" target="blank"> Rahul Sharma</a> </br>
+<a href="https://twitter.com/" target="blank">rahul_rahulsha1</a> </br>
 🚀 instagram- <a href="https://www.instagram.com/rahu.l3187/" target="blank" >rahu.l3187</a>
  
 <p align="center"> 
